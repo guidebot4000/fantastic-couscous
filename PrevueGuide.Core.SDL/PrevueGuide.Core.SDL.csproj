@@ -13,3 +13,4 @@
     </ItemGroup>
 
 </Project>
+`dotnet run --project PrevueGuide/PrevueGuide.csproj`
